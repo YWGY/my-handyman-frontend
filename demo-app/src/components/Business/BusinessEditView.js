@@ -1,1 +1,0 @@
-//add edit 共用一个component 
