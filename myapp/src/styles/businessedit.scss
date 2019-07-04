@@ -1,0 +1,49 @@
+.BusinessHome-header{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    z-index: 2;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.BusinessHome-content{
+    position: relative;
+    background-color:#f6f6f6;
+    padding: 50px;
+    margin-bottom: 25px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.menu{
+    display: block;
+    position: relative;
+    padding: 8px 0;
+    margin: 0 20px;
+    text-align: center;
+    color: #49515d;
+    font-size: 15px;
+    line-height: 1;
+    font-weight: 400;
+    position: relative;
+    text-decoration: none;
+    outline: none;
+    opacity: 0.6;
+}
+.BusinessHome-nav{
+    display: inline-block;
+    position: relative;
+    padding: 0;
+    text-align: center;
+    margin-top: 33px;
+}
+.BusinessHome-list{
+    list-style:none;
+}
